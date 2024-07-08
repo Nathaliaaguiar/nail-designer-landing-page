@@ -29,7 +29,11 @@ Siga os passos abaixo para rodar este projeto localmente:
    git clone https://github.com/SEU_USUARIO/nail-designer-landing-page.git
 
 
-##Contribuições
+## Contribuições
 
--Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.LicençaEste projeto está licenciado sob a MIT License.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir [issues](https://github.com/SEU_USUARIO/nail-designer-landing-page/issues) e [pull requests](https://github.com/SEU_USUARIO/nail-designer-landing-page/pulls).
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
    
