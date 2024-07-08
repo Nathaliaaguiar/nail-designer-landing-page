@@ -4,7 +4,7 @@ Bem-vindo ao repositório da landing page da nossa Nail Designer! Este projeto v
 
 ## Demonstração
 
-Confira a [demonstração ao vivo](URL_DE_DEMONSTRAÇÃO) da landing page.
+Confira a [demonstração ao vivo](https://nathaliaaguiar.github.io/nail-designer-landing-page/) da landing page.
 
 ## Funcionalidades
 
@@ -31,7 +31,7 @@ Siga os passos abaixo para rodar este projeto localmente:
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir [issues](https://github.com/SEU_USUARIO/nail-designer-landing-page/issues) e [pull requests](https://github.com/SEU_USUARIO/nail-designer-landing-page/pulls).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir [issues](https://github.com//nail-designer-landing-page/issues) e [pull requests](https://github.com/SEU_USUARIO/nail-designer-landing-page/pulls).
 
 ## Licença
 
